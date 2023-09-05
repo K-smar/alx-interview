@@ -1,5 +1,5 @@
-    ior lst_idx, lst in enumerate(grid):
-me """
+#!/usr/bin/python3
+""" Prime Game """
 
 
 def is_prime(n):
